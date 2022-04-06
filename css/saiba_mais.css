@@ -1,0 +1,76 @@
+h1{
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 2%;
+    color: #006494;
+}
+
+#carrossel{
+    margin: 2%; 
+}
+
+#img_crs{
+    border-radius: 10px;
+}
+
+h2{
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 2%;
+    color: #006494;
+}
+
+p{
+    font-size: 1rem;
+    font-weight: 500;
+    margin:2%;
+}
+
+.cards-vector-plane{
+    width: 10%;
+}
+
+.cards-vector-suitcase{
+    width: 7%;
+    height: 7%;
+    margin-left: 8%;
+}
+
+span{
+    margin-left: 1%;
+}
+
+#valor{
+    color:#006494;
+    font-size: 2.2rem;
+    font-weight: bolder;
+}
+
+#parcelado{
+    font-size: 0.9rem;
+    margin-top: 0;
+}
+
+@media (min-width:780px){
+    h1{
+        font-size: 3.5rem;
+    }
+
+    h2{
+        font-size: 2.5rem;
+    }
+
+    p{
+        font-size: 1.2rem;
+        margin: 1%;
+    }
+
+    .cards-vector-plane{
+        width: 5%;
+    }
+
+    .cards-vector-suitcase{
+        width:3%;
+        height:3%;
+    }
+}

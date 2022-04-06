@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+nav {
+    background-color: #D9D9D9;
+}
+
+#logo {
+    margin-right: 10%;
+}
+
+a{
+    text-decoration: none;
+}
+
+footer {
+    background-color: black;
+    color: #FFF9F9;
+    margin-top: 10%;
+    padding-bottom: 4%;
+    padding-top: 2%;
+}
+
+.redes-sociais {
+    width: 3%;
+}
